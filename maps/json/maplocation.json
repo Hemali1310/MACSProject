@@ -1,0 +1,24 @@
+{
+    "locations":[
+        {
+            "latitude":44.6569,
+            "longitude":-63.6243,
+            "marketId":"1"
+        },
+        {
+            "latitude":37.7858, 
+            "longitude":-122.4064,
+            "marketId":"2"
+        },
+        {
+            "latitude":44.6505,
+            "longitude":-63.6051,
+            "marketId":"3"
+        },
+        {
+            "latitude":44.6691,
+            "longitude":-63.6158,
+            "marketId":"4"
+        }
+    ]
+}
